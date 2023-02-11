@@ -1,0 +1,29 @@
+{
+  "name": "thoughti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "script": "src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PawanRajput2000/thoughti.git"
+  },
+  "keywords": [
+    "\"machine",
+    "test\""
+  ],
+  "author": "\"Pawan Rajput\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PawanRajput2000/thoughti/issues"
+  },
+  "homepage": "https://github.com/PawanRajput2000/thoughti#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
+  
